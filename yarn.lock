@@ -246,7 +246,7 @@ isexe@^1.1.1:
   version "1.1.2"
   resolved "https://npm.hubteam.com/nexus/content/groups/npm-all/isexe/-/isexe-1.1.2.tgz#36f3e22e60750920f5e7241a476a8c6a42275ad0"
 
-lerna@^2.0.0-beta.38:
+lerna@2.0.0-beta.38:
   version "2.0.0-beta.38"
   resolved "https://npm.hubteam.com/nexus/content/groups/npm-all/lerna/-/lerna-2.0.0-beta.38.tgz#99236416a6699707336dcbdeef83c315d1f71833"
   dependencies:
