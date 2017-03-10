@@ -1,8 +1,8 @@
 {
   "name": "b",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "devDependencies": {
-    "a": "^1.0.0"
+    "a": "^1.0.1"
   },
   "scripts": {
     "prepublish": "node node_modules/a/lib/build.js > results.txt"
