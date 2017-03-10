@@ -1,0 +1,10 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "devDependencies": {
+    "a": "^1.0.0"
+  },
+  "scripts": {
+    "prepublish": "node node_modules/a/lib/build.js > results.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "scripts": {
+    "prepublish": "rm -rf lib; sleep 5; mkdir lib; cp src/build.js lib"
+  }
+}
