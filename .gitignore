@@ -1,0 +1,5 @@
+packages/b/results.txt
+lerna-debug.log
+node_modules
+npm-debug.log
+packages/a/lib/
